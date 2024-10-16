@@ -3,7 +3,7 @@ Sixth homework assignment
 
 
 # Description
-Sixth homework assignment - Professional Portfolio
+Sixth homework assignment - Weather Dashboard
 
 
 

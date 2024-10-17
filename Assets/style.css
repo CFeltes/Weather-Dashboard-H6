@@ -5,14 +5,14 @@
     }
     
     body {
-      background-color: #d9dad7;
+      background-color: #79a81a;
       font-family: Arial, sans-serif;
     }
     
     nav {
       display: flex;
-      background-color: #1a2639;
-      color: white;
+      background-color: #0c5cdf;
+      color: rgb(92, 10, 10);
       height: 75px;
       text-align: center;
       align-items: center;
@@ -31,7 +31,7 @@
     .inputCard input, .inputCard select {
       padding: 10px;
       font-size: 1.2em;
-      border: 2px solid #1a2639;
+      border: 2px solid #9a4708;
       border-radius: 5px;
       margin-right: 10px;
       width: 300px;
@@ -40,7 +40,7 @@
     .inputCard button, .inputCard select {
       padding: 10px 20px;
       font-size: 1.2em;
-      background-color: #c24d2c;
+      background-color: #270a6f;
       color: white;
       border: none;
       border-radius: 5px;
@@ -48,7 +48,7 @@
     }
     
     .inputCard button:hover, .inputCard select:hover {
-      background-color: #a73b20;
+      background-color: #106023;
     }
     
     .weather-container {
@@ -60,8 +60,8 @@
     }
     
     .weather-card {
-      background-color: #1a2639;
-      color: white;
+      background-color: #acb210;
+      color: rgb(182, 11, 11);
       padding: 20px;
       margin: 10px;
       border-radius: 10px;
@@ -70,14 +70,14 @@
     
     .weather-card h2 {
       font-size: 2.5em;
-      color: #c24d2c;
+      color: #1b0b4b;
       margin-bottom: 10px;
     }
     
     .weather-card p {
-      font-size: 1.5em;
-      margin-top: 10px;
-      margin-bottom: 10px;
+      font-size: 2em;
+      margin-top: 15px;
+      margin-bottom: 15px;
     }
     
     #fiveDay {

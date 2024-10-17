@@ -42,12 +42,13 @@ Creating a template for displaying my resume, projects, and development as a cod
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/Weather-Dashboard-H6/
-https://github.com/CFeltes/Weather-Dashboard-H6
+https://cfeltes.github.io/Weather-Dashboard-H6/
+https://github.com/CFeltes/Weather-Dashboard-H6.git
+git@github.com:CFeltes/Weather-Dashboard-H6.git
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
+![See First Page Screenshot](Screenshot-1-H6.jpg)
+![See Secord Page Screenshot](Screenshot-2-H6.jpg)
+![See Third Page Screenshot](Screenshot-3-H6.jpg)
 
 
 ## Contributing
